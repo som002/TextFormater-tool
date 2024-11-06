@@ -1,6 +1,6 @@
-# 📝 **TextUtils** 🤖🤖
+# 📝 **TextFormator** 🤖🤖
 
-Welcome to **TextUtils**, your go-to **text editor** designed to improve your text formatting! Whether you need to manipulate or format text quickly and efficiently, **TextUtils** has you covered. 🌟
+Welcome to **TextFormator**, your go-to **text editor** designed to improve your text formatting! Whether you need to manipulate or format text quickly and efficiently, **TextFormator** has you covered. 🌟
 
 ---
 
@@ -30,15 +30,15 @@ Welcome to **TextUtils**, your go-to **text editor** designed to improve your te
 ---
 
 ### 📱 **Mobile-Friendly** 🖥️
-TextUtils is fully responsive and works seamlessly on both **desktop** and **mobile devices**. No matter where you are, you can access TextUtils and start formatting your text!
+TextFormator is fully responsive and works seamlessly on both **desktop** and **mobile devices**. No matter where you are, you can access TextFormator and start formatting your text!
 
 ---
 
 ### 🛠️ **Installation & Setup**
-If you'd like to run TextUtils locally on your machine:
+If you'd like to run TextFormator locally on your machine:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/textutils.git
+   git clone https://github.com/yourusername/TextFormator.git
 2. How to start the app
     ```bash
     >>npm install
